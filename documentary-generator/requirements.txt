@@ -1,0 +1,10 @@
+streamlit>=1.36,<2
+requests>=2.31,<3
+python-dotenv>=1.0,<2
+pydantic>=2.7,<3
+Pillow>=10.4,<12
+certifi>=2024.7.4
+numpy>=1.26,<3
+soundfile>=0.12,<1
+kokoro==0.9.4
+misaki[en]==0.9.4
